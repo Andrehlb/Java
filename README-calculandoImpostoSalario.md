@@ -26,8 +26,10 @@ ou
 java -jar calculandoImpostoSalario.java
 ```
 
-## Requisitos:
+## Requisitos
+
 - Java 11 ou superior.
 
-## Código fonte:
+## Código fonte
+
 Você pode encontrar o código fonte aqui: [Calculando Imposto do Salário](https://github.com/Andrehlb/Java/blob/33a7609309c67b53becfec7573362678e3ea524e/calculandoImpostoSalario.java)
