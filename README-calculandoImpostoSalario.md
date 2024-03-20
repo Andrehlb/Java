@@ -6,8 +6,8 @@ Este repositório contém um script em Java que calcula o imposto sobre o salár
 
 ## Como usar
 
-Para usar este script, você precisa ter o Java instalado em sua máquina. Você pode baixar o Java [aqui](https://www.java.com/pt-BR/download/).
-Após instalar o Java, você pode compilar o script usando o seguinte comando:
+Para usar este script, você precisa ter o **Java** instalado em sua máquina. Você pode baixar o **Java** [aqui](https://www.java.com/pt-BR/download/).
+Após instalar o **Java**, você pode compilar o script usando o seguinte comando:
 
 ```bash
 
@@ -25,6 +25,8 @@ ou
 ```bash
 java -jar calculandoImpostoSalario.java
 ```
+
+No **VSCode**, você pode usar a extensão Code Runner para compilar e executar o script, via tecla de atalho `Ctrl + Alt + N`.
 
 ## Requisitos
 
